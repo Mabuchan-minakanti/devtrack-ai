@@ -52,9 +52,3 @@ uvicorn main:app --reload
 ## 🗄 Database
 
 PostgreSQL database name: devtrack
-
----
-
-## 👨‍💻 Author
-
-Your Name
